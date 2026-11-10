@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Orb</title>
+    <link>https://github.com/nicolaerusan/orb-releases</link>
+    <description>Updates for Orb</description>
+    <language>en</language>
+  </channel>
+</rss>
