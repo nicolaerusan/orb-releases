@@ -5,5 +5,20 @@
     <link>https://github.com/nicolaerusan/orb-releases</link>
     <description>Updates for Orb</description>
     <language>en</language>
+    <item>
+      <title>Orb 0.1.0-beta.3</title>
+      <pubDate>Tue, 10 Nov 2026 21:45:09 GMT</pubDate>
+      <sparkle:version>202611102144</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First beta of Orb: show your agent what you mean.</p>
+<ul>
+<li><strong>Record and talk.</strong> Press the shortcut, walk through your screen, and say what you're thinking. Orb transcribes on your Mac and gives the recording a title.</li>
+<li><strong>Hand it to your agent.</strong> Click <strong>Copy agent prompt</strong> and paste it into Claude Code, Codex or any agent with a terminal. It gets your narration, screenshots and which apps you were in.</li>
+<li><strong>Interactive mode (experimental).</strong> A GPT-Live voice thought partner that talks back while you record and can point at things on your screen. It needs your own OpenAI API key, and while it's on, your audio goes to OpenAI.</li>
+</ul>
+<p><strong>Before you start:</strong> Orb needs macOS 26 on an Apple Silicon Mac. Summaries and titles use Apple Intelligence. The first time you press Record, macOS asks for Screen Recording permission: turn Orb on in System Settings, then quit and reopen Orb. Cloud share links are coming soon. Orb updates itself when new betas come out.</p>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.3/Orb-0.1.0-beta.3.dmg" length="2673039" type="application/octet-stream" sparkle:edSignature="zuLrmU1XFIMi9AgSuNETTgLZbx//JrpNkFQJ29OveW1r4uKa8lTcN9WmViBGwKKGhMzh8vs9xQpxqHGU/BN/Bg=="/>
+    </item>
   </channel>
 </rss>
