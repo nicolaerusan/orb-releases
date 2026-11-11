@@ -6,6 +6,21 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.9</title>
+      <pubDate>Wed, 11 Nov 2026 23:29:41 GMT</pubDate>
+      <sparkle:version>202611112328</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li><strong>Send Feedback.</strong> It's in the Orb menu, the menu bar and the sidebar. Write a note and it comes straight to me. Add your email if you'd like a reply. You can also record what went wrong as a normal take; it stays on your Mac.</li>
+<li><strong>A friendlier first run.</strong> Setup now lets you practise the record shortcut, or change it, and shows how a recording gets handed to your AI assistant.</li>
+<li><strong>Fewer dead ends.</strong> If a recording can't start, Orb's window comes forward and says why. If you decline the microphone, Orb records the screen alone instead of failing. And when there's no summary, it says why in plain words.</li>
+<li><strong>Interactive mode is no longer marked Experimental.</strong> After ten minutes of silence it pauses, so it stops using your OpenAI credit. Resuming picks the conversation back up.</li>
+<li><strong>Privacy.</strong> The anonymous daily ping now also says yes or no to whether this copy has ever recorded, copied a handoff, or shared a link. It still sends nothing from your recordings. A new copy sends nothing until you finish setup, and you can turn the ping off in Settings › Privacy.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.9/Orb-0.1.0-beta.9.dmg" length="3089101" type="application/octet-stream" sparkle:edSignature="Ws9AerPRfI40RRLHSgu8+iC9slGJ/WWLJOZbjj/uMaBviWVaBkVKOpnxr3SyhyfwD4P+UIJ6UCGRtQOnKNLrCA=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.8</title>
       <pubDate>Wed, 11 Nov 2026 04:42:28 GMT</pubDate>
       <sparkle:version>202611110440</sparkle:version>
