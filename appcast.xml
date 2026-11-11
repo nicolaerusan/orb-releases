@@ -6,6 +6,17 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.6</title>
+      <pubDate>Wed, 11 Nov 2026 03:20:28 GMT</pubDate>
+      <sparkle:version>202611110318</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li><strong>Updates are easier to find.</strong> Orb ▸ Check for Updates… sits under About Orb, and when a new version has downloaded, a small card above Settings offers to restart into it. The right-click menu bar menu offers the same. Orb still installs updates on its own the next time it quits, and never restarts during a recording.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.6/Orb-0.1.0-beta.6.dmg" length="2906624" type="application/octet-stream" sparkle:edSignature="xpCcYza+QrlqvPbPgdGk92nbyRyxs7AaUWaPNoNfI4zeAU1ZdzwbAGijmdyyn/7/869aACXVSbEhCM8MuZ4+Aw=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.5</title>
       <pubDate>Wed, 11 Nov 2026 03:16:13 GMT</pubDate>
       <sparkle:version>202611110314</sparkle:version>
