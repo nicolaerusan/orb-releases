@@ -6,6 +6,15 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.4</title>
+      <pubDate>Wed, 11 Nov 2026 03:05:42 GMT</pubDate>
+      <sparkle:version>202611110304</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><strong>Anonymous install counting.</strong> Once a day, Orb now sends a random ID for this copy, its version, and your macOS version, so we can see how many people use it. It never sends recordings, transcripts, or anything on your screen. You can turn it off in Settings → Privacy, which also deletes the ID.</p>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.4/Orb-0.1.0-beta.4.dmg" length="2745660" type="application/octet-stream" sparkle:edSignature="JivWm3R3/mpB2+Qx+hUtBPoNPDGgkaCzaPtaiSj09+ZWiHuH8uxtxXK1I+/Jf+qNIjKdspIOM9u93ch9th5NAQ=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.3</title>
       <pubDate>Tue, 10 Nov 2026 21:45:09 GMT</pubDate>
       <sparkle:version>202611102144</sparkle:version>
