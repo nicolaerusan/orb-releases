@@ -6,6 +6,19 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.8</title>
+      <pubDate>Wed, 11 Nov 2026 04:42:28 GMT</pubDate>
+      <sparkle:version>202611110440</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>The slim scrollbar now moves as you scroll, instead of staying at the top.</li>
+<li>New users are walked through granting screen and microphone access on first run.</li>
+<li>Orb's icon can be dragged straight into the Screen Recording list in System Settings.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.8/Orb-0.1.0-beta.8.dmg" length="2934348" type="application/octet-stream" sparkle:edSignature="QuTHm14W5UXBEZG2qG4DhG9klByEM0tM6YhbPrxv4xuBJGGzRcY7SFoq7moCbvUtSydcMHnWWyV5IbIfAMMSBw=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.7</title>
       <pubDate>Wed, 11 Nov 2026 04:04:55 GMT</pubDate>
       <sparkle:version>202611110403</sparkle:version>
