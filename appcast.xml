@@ -6,6 +6,15 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.5</title>
+      <pubDate>Wed, 11 Nov 2026 03:16:13 GMT</pubDate>
+      <sparkle:version>202611110314</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Slimmer scrollbars: the sessions sidebar, session pages and Settings now use a thin, unobtrusive scrollbar with no track, which darkens when you hover over it.</p>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.5/Orb-0.1.0-beta.5.dmg" length="2934266" type="application/octet-stream" sparkle:edSignature="5SBxJC323GuyqDXtCtcvQyPAG8H+YYuInT6sgJNk7fFOkfR+3l8Tsu1Zj87qQp25hSzbwijVa+H4sxu6hX5WBA=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.4</title>
       <pubDate>Wed, 11 Nov 2026 03:05:42 GMT</pubDate>
       <sparkle:version>202611110304</sparkle:version>
