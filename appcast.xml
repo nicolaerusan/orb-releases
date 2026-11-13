@@ -6,6 +6,20 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.10</title>
+      <pubDate>Fri, 13 Nov 2026 21:14:13 GMT</pubDate>
+      <sparkle:version>202611132112</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li><strong>Interactive recordings sound right.</strong> Your voice and Orb's are now mixed at the same level. Before, your voice could come out much quieter than the assistant's.</li>
+<li><strong>"Prompt copied" when a recording finishes.</strong> Orb copies the agent prompt for you and shows a small pill, so you can paste straight into your agent. You can turn this off in Settings.</li>
+<li><strong>Setup ends with your first recording.</strong> The last setup page walks you through making one with the shortcut.</li>
+<li><strong>Optional Accessibility access.</strong> If you allow it, in setup or in Settings, Orb notices window and tab switches as they happen. It never clicks or types for you.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.10/Orb-0.1.0-beta.10.dmg" length="3119251" type="application/octet-stream" sparkle:edSignature="QmSciRuEXJhDtTJs9ofMTYj/Aj8MkRgy2yS72rq8xkhgwCbb966QbAapH/RVV0bnNM+K8tR/gKgXCdP3uBhIDQ=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.9</title>
       <pubDate>Wed, 11 Nov 2026 23:29:41 GMT</pubDate>
       <sparkle:version>202611112328</sparkle:version>
