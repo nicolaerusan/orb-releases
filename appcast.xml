@@ -6,6 +6,15 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.11</title>
+      <pubDate>Sat, 14 Nov 2026 00:11:34 GMT</pubDate>
+      <sparkle:version>202611140010</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Draw shapes while recording: the pen button on the recording bar now opens a palette with rectangle, ellipse and arrow tools. Hold Shift for a square, a circle, or a straight arrow.</p>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.11/Orb-0.1.0-beta.11.dmg" length="3123578" type="application/octet-stream" sparkle:edSignature="FE7P3FuyJDfKuq6L950MGVaa9MERc+/xGICEvL7oa4fbzu3405Lp0y98VOX6+LzZnCuHgihAXVzXvTfMe+GsBg=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.10</title>
       <pubDate>Fri, 13 Nov 2026 21:14:13 GMT</pubDate>
       <sparkle:version>202611132112</sparkle:version>
