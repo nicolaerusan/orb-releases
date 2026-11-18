@@ -6,6 +6,19 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.12</title>
+      <pubDate>Wed, 18 Nov 2026 15:49:16 GMT</pubDate>
+      <sparkle:version>202611181547</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Click for me (beta): in interactive mode, Orb can click, type and scroll in the app you're looking at when you ask it to. It's off until you turn it on in Settings, and it asks before anything that sends, publishes or deletes.</li>
+<li>Orb now opens when you log in, so it's always ready in the menu bar. macOS shows a "Login item added" notice the first time. You can turn it off in Settings under Startup.</li>
+<li>Opening Orb a second time now tells you it's already running.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.12/Orb-0.1.0-beta.12.dmg" length="3491434" type="application/octet-stream" sparkle:edSignature="tAErABNL51xvWouM0gl9D9vecYb5X4zVe+L75Y67w+hH4f9ZP80YQxQkko9vNtScG/6xW1xFyuEzamO3SpilDQ=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.11</title>
       <pubDate>Sat, 14 Nov 2026 00:11:34 GMT</pubDate>
       <sparkle:version>202611140010</sparkle:version>
