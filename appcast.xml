@@ -6,6 +6,15 @@
     <description>Updates for Orb</description>
     <language>en</language>
     <item>
+      <title>Orb 0.1.0-beta.13</title>
+      <pubDate>Thu, 19 Nov 2026 15:46:36 GMT</pubDate>
+      <sparkle:version>202611191544</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes interactive mode answering "something went wrong" to every screen question when Click for me is on. Settings now says plainly that Click for me asks before sending anything.</p>]]></description>
+      <enclosure url="https://github.com/nicolaerusan/orb-releases/releases/download/v0.1.0-beta.13/Orb-0.1.0-beta.13.dmg" length="3495494" type="application/octet-stream" sparkle:edSignature="4ma9Ue7E+EbC3ZY6scxVfLSyQJdqRaCJYgWQYzkGvuMbG86RemGEUt3/6paDtqVLDjKtfTjc86cQBtL+OcHIDw=="/>
+    </item>
+    <item>
       <title>Orb 0.1.0-beta.12</title>
       <pubDate>Wed, 18 Nov 2026 15:49:16 GMT</pubDate>
       <sparkle:version>202611181547</sparkle:version>
